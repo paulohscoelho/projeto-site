@@ -14,6 +14,6 @@ background-color: rgb(231, 164, 133);
 main{
     background-color: white;
     width: 500px;
-    margin: 4px;
+    margin: auto;
     box-shadow: 3px 3px 3px rgba(0, 0,0,0.473);
 }
