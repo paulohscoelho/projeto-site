@@ -7,13 +7,13 @@
 
 
 body{
-background-color: rgb(184, 133, 231);
+background-color: rgb(231, 164, 133);
 
 }
 
 main{
     background-color: white;
     width: 500px;
-    margin: auto;
+    margin: 4px;
     box-shadow: 3px 3px 3px rgba(0, 0,0,0.473);
 }
